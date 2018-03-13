@@ -9,7 +9,7 @@ actors:
     url: http://sns.example.com/bob
   red:
     image_url: /images/actors/red.jpg
-    name: れっど
+    name: "れっど"
     url: https://twitter.com/aruaru6161
 author: red
 description: Example description
