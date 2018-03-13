@@ -28,5 +28,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title:れっどのPodcast
+title: れっどのPodcast
 url: https://aruaru6161.github.io
