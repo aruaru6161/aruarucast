@@ -8,7 +8,7 @@ actors:
     name: bob
     url: http://sns.example.com/bob
   red:
-    image_url: https://pbs.twimg.com/profile_images/778829203/____400x400.PNG
+    image_url: /images/actors/red.jpg
     name: れっど
     url: https://twitter.com/aruaru6161
 author: red
